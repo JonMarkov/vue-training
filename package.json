@@ -2,7 +2,7 @@
   "name": "vue-book1",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "zhufengpeixun <1144709265@qq.com>",
+  "author": "Jonmarkov <670475635@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

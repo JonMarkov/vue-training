@@ -9,7 +9,7 @@ Vue.config.productionTip = false;
 //轮播图，开始放到了base/Swiper中，考虑到其他地方的使用，所以放到main中，供全局使用
 var VueAwesomeSwiper = require('vue-awesome-swiper')
 Vue.use(VueAwesomeSwiper);
-import  'swiper/dist/css/swiper.css'
+// import  'swiper/dist/css/swiper.css'
 
 
 /* eslint-disable no-new */
